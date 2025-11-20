@@ -255,7 +255,7 @@ def Main(PathToLayout, AlwaysIncludedList):
 	
 if __name__ == '__main__':
 	# The saved file of your "all screen" or multi layout save
-	PathToLayout = 'Default(2).layout'
+	PathToLayout = 'ALL_SCREEN.layout'
 	if PathToLayout == '':
 		print('Heyo, you cant just run this script, you need to edit the PathToLayout variable by'
 				+'opening this script in a text editor like notepad++')
@@ -267,3 +267,4 @@ if __name__ == '__main__':
 	AlwaysIncludedList = ['37','46']
 	
 	Main(PathToLayout, AlwaysIncludedList)
+
