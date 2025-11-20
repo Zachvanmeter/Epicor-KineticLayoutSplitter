@@ -14,3 +14,10 @@ Utility which cuts one Epicor Homepage Layout into importable 'Sub-Tabs'. This a
      > pip install beautifulsoup4
 4. Import your files into Epicor
 5. <img width="562" height="264" alt="95d84a21c30d263b313436ee440db84cb27be49f" src="https://github.com/user-attachments/assets/3f6cc33c-860d-4eb4-b422-00962facf82c" />
+
+The "All Screen"
+<img width="1383" height="554" alt="image" src="https://github.com/user-attachments/assets/f1178485-ce72-4671-82c6-cdcea818e561" />
+
+The Result
+<img width="1396" height="542" alt="image" src="https://github.com/user-attachments/assets/44099d4b-c088-4ebc-a8a2-bcd39d6e47a3" />
+
